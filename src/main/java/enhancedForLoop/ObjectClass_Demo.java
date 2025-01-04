@@ -7,3 +7,4 @@ public class ObjectClass_Demo {
         obj.notify();
     }
 }
+
